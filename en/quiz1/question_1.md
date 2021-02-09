@@ -10,7 +10,9 @@ After each question, press submit to lock in your answer. You will then be asked
 legend: Question 1 of 3
 ---
 
-In your project, you created a stress ball character. In Scratch, what do you call a character or an object like your stress ball?
+In your project, you created a stress ball character.
+
+In Scratch, what do you call a character or an object like your stress ball?
 
 --- choices ---
 

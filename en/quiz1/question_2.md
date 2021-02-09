@@ -6,32 +6,39 @@
 legend: Question 2 of 3
 ---
 
-In your project, you created a stress ball character. In Scratch, what do you call a character or an object like your stress ball?
+You added the Ball sprite to your project and used the Paint Editor to add eyes and hair.
+
+How did you open the Paint Editor?
+
 
 --- choices ---
 
-- ( ) A costume.
+- ( ) Code tab.
+![Code tab image](images/quiz Q2 A1.png)
 
   --- feedback ---
-A costume is a picture for a sprite. Some sprites have more than one costume. You chose which colour costume to use for your Stress ball.
+The code tab is where you add code blocks for your Sprite, you need to be in a different tab to open the Paint Editor.
   --- /feedback ---
 
-- (x) A sprite.
+- ( ) Click on the Sprite on the stage.
+![Click sprite](images/quiz Q2 A2.png)
 
   --- feedback ---
-Yes, a character or object in your project is called a sprite. It can have code, sounds and costumes.
+No you can’t edit a sprite’s costume from the Stage. You need to open the Paint Editor.
   --- /feedback ---
 
-- ( ) A stage.
+- (x) Costumes tab.
+![Costumes tab](images/quiz Q2 A3.png)
 
   --- feedback ---
-The Stage is where all the action happens in your project.
+Yes, to open the Paint Editor you click on the Costumes tab. First make sure you have selected the sprite under the Stage.
   --- /feedback ---
 
-- ( ) A backdrop.
+- ( ) Sounds tab.
+![Costumes tab](images/quiz Q2 A4.png)
 
   --- feedback ---
-A backdrop is a picture for the Stage. Your sprites appear in front of the backdrop.
+The sounds tab is where you add sounds, you need to be in a different tab to open the Paint Editor. 
   --- /feedback ---
 
 --- /choices ---
