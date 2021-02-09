@@ -38,7 +38,7 @@ Yes, to open the Paint Editor you click on the Costumes tab. First make sure you
 ![Costumes tab](images/quiz Q2 A4.png)
 
   --- feedback ---
-The sounds tab is where you add sounds, you need to be in a different tab to open the Paint Editor. 
+The sounds tab is where you add sounds, you need to be in a different tab to open the Paint Editor.
   --- /feedback ---
 
 --- /choices ---
