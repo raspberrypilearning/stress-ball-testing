@@ -2,6 +2,8 @@
 
 You have learned a lot! Answer the questions below to reflect on what you've learned.
 
+After each question, press submit to lock in your answer. You will then be asked the next question and given your score at the end (to be changed later)
+
 --- question ---
 
 ---
