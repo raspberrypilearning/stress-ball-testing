@@ -6,32 +6,37 @@
 legend: Question 3 of 3
 ---
 
-In your project, you created a stress ball character. In Scratch, what do you call a character or an object like your stress ball?
+This image shows the ball sprite at 100% (normal) size.
+
+![Ball sprite 100 percent](images/balls-sprite-ball.png)
+
+If you run the code below, what will happen to your ball sprite?
+
+```blocks3
+set size to (200)%
+```
 
 --- choices ---
 
-- ( ) A costume.
+- ( ) It will stay the same size
+![Code tab image](images/quiz Q3 A1.png)
 
   --- feedback ---
-A costume is a picture for a sprite. Some sprites have more than one costume. You chose which colour costume to use for your Stress ball.
+The code in the question gets the ball to change in size from 100% to 200% so it will not be the same size.
   --- /feedback ---
 
-- (x) A sprite.
+- (x) It will be bigger by twice the size
+![Click sprite](images/quiz Q3 A3.png)
 
   --- feedback ---
-Yes, a character or object in your project is called a sprite. It can have code, sounds and costumes.
+Yes, the ball will change in size from 100% to 200% so it will become twice as big.
   --- /feedback ---
 
-- ( ) A stage.
+- ( ) The ball will become smaller.
+![Ball smaller](images/quiz Q3 A3.png)
 
   --- feedback ---
-The Stage is where all the action happens in your project.
-  --- /feedback ---
-
-- ( ) A backdrop.
-
-  --- feedback ---
-A backdrop is a picture for the Stage. Your sprites appear in front of the backdrop.
+The code in the question gets the ball to change in size from 100% to 200% so it will not get smaller in size.
   --- /feedback ---
 
 --- /choices ---
